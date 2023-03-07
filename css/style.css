@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  z-index: 1;
+  background: rgba(114, 109, 109, 0.5);
+  position: fixed;
+}
+.nav_inicio{
+  background: transparent;
+}
+
+
+
+.fondo_portada{
+  background-image: url(../img/fondo_portada.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+.img_logo{
+
+}
+
+.card{
+  width: 350px;
+  height: 350px;
+  border-radius: 2em;
+  border: .2em solid rgb(54, 52, 52);
+}
